@@ -15,5 +15,5 @@ Calculator developed in jQuery with a deadline of 16 hours in the second month o
 ## 📐 Layout
 
 <p align="center">
-  <img alt="" src="https://user-images.githubusercontent.com/78664426/123468763-9da5db00-d5c8-11eb-94ec-de295ea25e91.png" />
+  <img alt="Layout" src="https://user-images.githubusercontent.com/78664426/123468763-9da5db00-d5c8-11eb-94ec-de295ea25e91.png" />
 </p>
